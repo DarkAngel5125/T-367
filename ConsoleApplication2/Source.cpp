@@ -50,6 +50,6 @@ int main()
 			cout << a[i][j] << " ";
 			cout << endl;
 	}
-	_sleep(50000);
+	_sleep(5000);
 	return 0;
 }

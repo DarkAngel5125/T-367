@@ -17,7 +17,6 @@ int main()
 			{
 				k++;
 				v[k] = a[i][j];
-				cout << "V elements: " << v[k] << endl;
 			}
 		}
 		else if (i == p)
@@ -27,7 +26,6 @@ int main()
 			{
 				k++;
 				d[k] = a[i][j];
-				cout << "D elements: " << d[k] << endl;
 			}
 		}
 	}
